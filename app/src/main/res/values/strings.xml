@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SignEra</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_word_or_a_phase">Enter word or a phase</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="red" >REd</string>
+    <string name="blue" >BLuue</string>
+    <string name="orange">orange</string>
+    <string name="playbutton">Play</string>
+    <string name="translate">Translate</string>
+    <string name="story">Story</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="support">Support</string>
+    <string name="appname">SignEra</string>
+</resources>
